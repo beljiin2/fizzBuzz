@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzzprodevs",
+  "version": "1.0.0",
+  "description": "ejercicio de logica",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Ingeniero Cepeda",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "jest": {
+    "collectCoverage": false
+  }
+}
