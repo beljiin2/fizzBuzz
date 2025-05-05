@@ -1,4 +1,4 @@
-//# 🧠 Ejercicio: FizzBuzz
+//# 🧠 Ejercicio: FizzBuzz Prodevs Academy
 
 //Este es un pequeño desafío de programación para practicar lógica condicional en JavaScript en Prodevs Academy.
 
@@ -20,6 +20,10 @@
 //FizzBuzz(5)   // "Buzz"
 //FizzBuzz(15)  // "FizzBuzz"
 //FizzBuzz(7)   // 7
+
+
+
+// Ejecuta en la consola npm install y luego ejecuta npm test para correr el test del ejercicio
 
 
 
